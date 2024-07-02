@@ -8,4 +8,4 @@ If your publication is not included here, please feel free to send me pull reque
 ## Surveys & Tutorials
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Integrated Sensing and Communications: Towards Dual-functional Wireless Networks for 6G and Beyond](https://ieeexplore.ieee.org/abstract/document/9737357)  | Fan Liu, SUSTech | JSAC 2022 |  Signal Processing, Network Design, Theoretical Tradeoff, Practical Applications |   |
+| [Integrated Sensing and Communications: Towards Dual-functional Wireless Networks for 6G and Beyond](https://ieeexplore.ieee.org/abstract/document/9737357)  | Fan Liu, SUSTech | JSAC 2022 |  Signal Processing, Network Design, Theoretical Tradeoff, Applications |   |
