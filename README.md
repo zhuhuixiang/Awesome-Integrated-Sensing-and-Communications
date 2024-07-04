@@ -11,8 +11,8 @@ If your publications are not included here, please feel free to send me pull req
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Integrated Sensing and Communications: Towards Dual-functional Wireless Networks for 6G and Beyond](https://ieeexplore.ieee.org/abstract/document/9737357)  | Fan Liu, SUSTech | JSAC 2022 |  Signal Processing, Network Design, Theoretical Tradeoff, Applications |   |
 | [A Survey on Fundamental Limits of Integrated Sensing and Communication](https://ieeexplore.ieee.org/abstract/document/9705498)  | Liu A |  |   |   |
-| [A Compressive Sensing Approach for Federated Learning Over Massive MIMO Communication Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9269459)  | Jeon Y S | TWC 2020 |   |   |
-| [Accelerating Edge Intelligence via Integrated Sensing and Communication](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9839016)  | Zhang T | ICC 2022 | Beamforming, edge intelligence, integrated sensing and communication (ISAC)  |   |
+| [A Compressive Sensing Approach for Federated Learning Over Massive MIMO Communication Systems](https://ieeexplore.ieee.org/abstract/document/9269459)  | Jeon Y S | TWC 2020 |   |   |
+| [Accelerating Edge Intelligence via Integrated Sensing and Communication](https://ieeexplore.ieee.org/abstract/document/9839016)  | Zhang T | ICC 2022 | Beamforming, edge intelligence, integrated sensing and communication (ISAC)  |   |
 
 | []()  |  |  |   |   |
 | []()  |  |  |   |   |
