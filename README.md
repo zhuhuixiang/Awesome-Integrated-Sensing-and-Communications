@@ -18,6 +18,9 @@ If your publications are not included here, please feel free to send me pull req
 | [Fundamental Detection Probability vs. Achievable Rate Tradeoff in Integrated Sensing and Communication Systems](https://ieeexplore.ieee.org/abstract/document/10124135)  | Jiancheng An | TWC 2023 | Integrated sensing and communications (ISAC), radar and communication coexistence (R&C), generalized likelihood ratio test (GLRT), performance tradeoff, power allocation  |   |
 | [Integrated Sensing and Communication in 6G: Motivations, Use Cases, Requirements, Challenges and Future Directions](https://ieeexplore.ieee.org/abstract/document/9376324)  | Tan D K P, He J, Li Y, et al | 2021 1st IEEE International Online Symposium on Joint Communications & Sensing (JC&S) | Integrated Sensing and Communication (ISAC), 6G, sensing assisted communication  |   |
 | [Integrated Sensing and Communications: Towards Dual-functional Wireless Networks for 6G and Beyond](https://ieeexplore.ieee.org/abstract/document/9737357)  | Liu F, Cui Y, Masouros C, et al | JSAC 2022 | Integrated sensing and communications, performance tradeoff, waveform design, perceptive network  |   |
+| [Integrated Sensing and Communication Assisted Mobile Edge Computing: An Energy-Efficient Design via Intelligent Reflecting Surface](https://ieeexplore.ieee.org/abstract/document/9840900)  | Huang N, Wang T, Wu Y, et al | IEEE Wireless Communications Letters | Integrated sensing and communication, mobile edge computing, intelligent reflecting surface  |   |
+
+
 
 
 | []()  |  |  |   |   |
