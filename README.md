@@ -29,11 +29,14 @@ If your publications are not included here, please feel free to send me pull req
 ## ISAC Researches
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+
+
 | [Computing Systems for Autonomous Driving: State of the Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9288755)  | Liu L, Lu S, Zhong R, et al | IOT 2020 | Autonomous driving, challenges, computing systems  |   |
-| [Sensing, Computing, and Communications for Energy Harvesting IoTs: A Survey](https://ieeexplore.ieee.org/abstract/document/8944276)  | Ma D, Lan G, Hassan M, et al | IEEE Communications Surveys & Tutorials, 2019 | Energy harvesting, Internet of Things, sensing, intermittent computing, energy harvesting communications  |   |
-| [Edge Learning for B5G Networks With Distributed Signal Processing: Semantic Communication, Edge Computing, and Wireless Sensing](https://ieeexplore.ieee.org/abstract/document/10024766)  | Xu W, Yang Z, Ng D W K, et al | IEEE journal of selected topics in signal processing, 2023 | Artificial intelligence (AI), deep learning (DL), edge learning (EL), federated learning (FL), multi-agent reinforcement learning (MARL), communication optimization, Internet-of-Everything (IoE), beyond 5G (B5G)  |   |
-| [Integrated Sensing, Computation and Communication in B5G Cellular Internet of Things](https://ieeexplore.ieee.org/abstract/document/9206051)  | Qi Q, Chen X, Zhong C, et al | TWC 2020 | B5G, cellular IoT, integrating SCC, beamforming design  |   |
+| [Sensing, Computing, and Communications for Energy Harvesting IoTs: A Survey](https://ieeexplore.ieee.org/abstract/document/8944276)  | Ma D, Lan G, Hassan M, et al | IEEE Communications Surveys & Tutorials, 2019 | Energy harvesting, Internet of Things, sensing  |   |
+| [Edge Learning for B5G Networks With Distributed Signal Processing: Semantic Communication, Edge Computing, and Wireless Sensing](https://ieeexplore.ieee.org/abstract/document/10024766)  | Xu W, Yang Z, Ng D W K, et al | IEEE journal of selected topics in signal processing, 2023 | Artificial intelligence (AI), deep learning (DL), edge learning (EL)  |   |
+| [Integrated Sensing, Computation and Communication in B5G Cellular Internet of Things](https://ieeexplore.ieee.org/abstract/document/9206051)  | Qi Q, Chen X, Zhong C, et al | TWC 2020 | B5G, cellular IoT, integrating SCC  |   |
 | [Intelligent metasurfaces: control, communication and computing](https://link.springer.com/article/10.1186/s43593-022-00013-3)  | Li L, Zhao H, Liu C, et al |  |   |   |
+
 
 
 ## ISCC Surveys & Tutorials
