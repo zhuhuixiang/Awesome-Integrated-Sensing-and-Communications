@@ -29,8 +29,6 @@ If your publications are not included here, please feel free to send me pull req
 ## ISAC Researches
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-
-
 | [Computing Systems for Autonomous Driving: State of the Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9288755)  | Liu L, Lu S, Zhong R, et al | IOT 2020 | Autonomous driving, challenges, computing systems  |   |
 | [Sensing, Computing, and Communications for Energy Harvesting IoTs: A Survey](https://ieeexplore.ieee.org/abstract/document/8944276)  | Ma D, Lan G, Hassan M, et al | IEEE Communications Surveys & Tutorials, 2019 | Energy harvesting, Internet of Things, sensing  |   |
 | [Edge Learning for B5G Networks With Distributed Signal Processing: Semantic Communication, Edge Computing, and Wireless Sensing](https://ieeexplore.ieee.org/abstract/document/10024766)  | Xu W, Yang Z, Ng D W K, et al | IEEE journal of selected topics in signal processing, 2023 | Artificial intelligence (AI), deep learning (DL), edge learning (EL)  |   |
