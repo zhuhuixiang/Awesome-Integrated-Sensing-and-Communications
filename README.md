@@ -1,4 +1,4 @@
-A curated list of Integrated Sensing &amp; Communications (**ISAC**), Integrated Sensing, Computation, and Communication (**ISCC**) publications in Top-tier Conferences and Journals, including IEEE Trans, ACM Journals, JSAC, IoTJ,  etc. 
+A curated list of Integrated Sensing &amp; Communications (**ISAC**), Integrated Sensing, Computation, and Communication (**ISCC**) publications in Top-tier Conferences and Journals, including IEEE Trans, ACM Journals, JSAC, IoTJ,  etc. Note that we ranked the following papers based on their **publication year** and **Google Scholar citations**.
 
 **Last Update: July 2nd, 2024**
 
