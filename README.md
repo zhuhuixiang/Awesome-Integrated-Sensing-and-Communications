@@ -5,7 +5,7 @@ A curated list of Integrated Sensing &amp; Communications (**ISAC**), Integrated
 If your publications are not included here, please feel free to send me pull requests or email (zhuhuixiang@hust.edu.cn) to add links.
 
 
-## ISAC Surveys & Tutorials
+## ISAC-Surveys & Tutorials
 | Title  | Team/Authors | Venue/Year |  Targeting Problems |
 | ------------- | ------------- | ------------- | ------------- |
 | [Integrated Sensing and Communications: Towards Dual-functional Wireless Networks for 6G and Beyond](https://ieeexplore.ieee.org/abstract/document/9737357)  | Fan Liu, SUSTech | JSAC 2022 |  Signal Processing, Network Designing, Theoretical Tradeoff, Future Applications |  
@@ -25,7 +25,7 @@ If your publications are not included here, please feel free to send me pull req
 | [Integrating Sensing and Communications for Ubiquitous IoT: Applications, Trends, and Challenges](https://ieeexplore.ieee.org/abstract/document/9606831)  | Cui Y, Liu F, Jing X, et al | IEEE Network, 2021 | integrated sensing and communications (ISAC)  |   
 | [MIMO Integrated Sensing and Communication: CRB-Rate Tradeoff](https://ieeexplore.ieee.org/abstract/document/10217169)  | Hua H, Han T X, Xu J | IEEE Transactions on Wireless Communications, 2023. | Integrated sensing and communication (ISAC), multiple-input multiple-output (MIMO), Cramér-Rao bound (CRB)  |   
 
-## ISAC Researches
+## ISAC-Researches
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Computing Systems for Autonomous Driving: State of the Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9288755)  | Liu L, Lu S, Zhong R, et al | IOT 2020 | Autonomous driving, challenges, computing systems  |   |
@@ -34,7 +34,7 @@ If your publications are not included here, please feel free to send me pull req
 | [Integrated Sensing, Computation and Communication in B5G Cellular Internet of Things](https://ieeexplore.ieee.org/abstract/document/9206051)  | Qi Q, Chen X, Zhong C, et al | TWC 2020 | B5G, cellular IoT, integrating SCC  |   |
 | [Intelligent metasurfaces: control, communication and computing](https://link.springer.com/article/10.1186/s43593-022-00013-3)  | Li L, Zhao H, Liu C, et al |  |   |   |
 
-
+## ISAC-White Papers
 
 ## ISCC Surveys & Tutorials
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
