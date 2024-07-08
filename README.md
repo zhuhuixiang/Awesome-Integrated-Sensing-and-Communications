@@ -1,4 +1,4 @@
-A curated list of Integrated Sensing &amp; Communications (**ISAC**), Reconfigurable Intelligent Surface (RIS)-assisted ISAC,  Integrated Sensing, Computation, and Communication (**ISCC**) publications in Top-tier Conferences and Journals, including IEEE Trans, ACM Journals, JSAC, IoTJ,  etc. Note that we ranked the following papers based on their **publication year** and **Google Scholar citations**.
+A curated list of Integrated Sensing &amp; Communications (**ISAC**), Reconfigurable Intelligent Surface (RIS)-assisted ISAC,  Integrated Sensing, Computation, and Communication (**ISCC**) publications in Top-tier Conferences and Journals, including IEEE Trans, ACM Journals, JSAC, IoTJ,  etc. Note that we ranked the following papers based on their **publication year** and **Google Scholar citations**.xxxx
 
 **Last Update: July 2nd, 2024**
 
