@@ -1,4 +1,4 @@
-A curated list of Integrated Sensing &amp; Communications (**ISAC**), Integrated Sensing, Computation, and Communication (**ISCC**) publications in Top-tier Conferences and Journals, including IEEE Trans, ACM Journals, JSAC, IoTJ,  etc. Note that we ranked the following papers based on their **publication year** and **Google Scholar citations**.
+A curated list of Integrated Sensing &amp; Communications (**ISAC**), Reconfigurable Intelligent Surface (RIS)-assisted ISAC,  Integrated Sensing, Computation, and Communication (**ISCC**) publications in Top-tier Conferences and Journals, including IEEE Trans, ACM Journals, JSAC, IoTJ,  etc. Note that we ranked the following papers based on their **publication year** and **Google Scholar citations**.
 
 **Last Update: July 2nd, 2024**
 
@@ -39,7 +39,13 @@ If your publications are not included here, please feel free to send me pull req
 | [Integrated Sensing, Computation and Communication in B5G Cellular Internet of Things](https://ieeexplore.ieee.org/abstract/document/9206051)  | Qi Q, Chen X, Zhong C, et al | TWC 2020 | B5G, cellular IoT, integrating SCC  |   |
 | [Intelligent metasurfaces: control, communication and computing](https://link.springer.com/article/10.1186/s43593-022-00013-3)  | Li L, Zhao H, Liu C, et al |  |   |   |
 
-## ISAC-White Papers
+## RIS-assisted ISAC Surveys & Tutorials
+| Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+
+## RIS-assisted ISAC Researches
+| Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 
 ## ISCC Surveys & Tutorials
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
