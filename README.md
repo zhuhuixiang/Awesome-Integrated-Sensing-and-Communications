@@ -14,6 +14,8 @@ If your publications are not included here, please feel free to send me pull req
  - [ISCC Surveys & Tutorials](#iscc-surveys--tutorials)
  - [ISCC Researches](#iscc-researches)
 
+<br> <!-- 添加空行以增加间隙 -->
+
 ## ISAC-Surveys & Tutorials
 | Title  | Institutions | Venue/Year |  Targeting Problems |
 | ------------- | ------------- | ------------- | ------------- |
@@ -25,6 +27,8 @@ If your publications are not included here, please feel free to send me pull req
 | [Intelligent metasurfaces: control, communication and computing](https://link.springer.com/article/10.1186/s43593-022-00013-3)  | Peking University | Elight 2022 | Signal Processing, Network Designing, Future Applications  |   |
 | [Computing Systems for Autonomous Driving: State of the Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9288755)  | Wayne State University | IoTJ 2020 | Network Designing, Theoretical Tradeoff, Future Applications  |   |
 | [Sensing, Computing, and Communications for Energy Harvesting IoTs: A Survey](https://ieeexplore.ieee.org/abstract/document/8944276)  | University of New South Wales | IEEE Commun. Surv. Tutorials 2019 | Signal Processing, Network Designing, Theoretical Tradeoff, Future Applications  |   |
+
+<br> <!-- 添加空行以增加间隙 -->
 
 ## ISAC-Researches
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
@@ -54,6 +58,8 @@ If your publications are not included here, please feel free to send me pull req
 | [Target Detection and Localization Using MIMO Radars and Sonars](https://ieeexplore.ieee.org/abstract/document/1703855)  | Ben-Gurion University of the Negev | IEEE Transactions on Signal Processing, 2006 | Signal Processing, Network Designing  |   |
 | [Edge Intelligence based Integrated Sensing and Communication]()  | Huazhong University of Science and Technology |  | Signal Processing, Network Designing, Theoretical Tradeoff, Future Applications  |   |
 
+<br> <!-- 添加空行以增加间隙 -->
+
 ## RIS-assisted ISAC Surveys & Tutorials
 | Title | Institutions | Venue/Year | Targeting Problems |
 | ----- | ------------ | ---------- | ----------------- |
@@ -66,6 +72,8 @@ If your publications are not included here, please feel free to send me pull req
 | [Security and Privacy for Reconfigurable Intelligent Surface in 6G: A Review of Prospective Applications and Challenges](https://ieeexplore.ieee.org/abstract/document/10121733) | Université de Montréal | IEEE open j. Commun. Soc. 2023 | Physical Layer Security, Multi-Access Edge Computing, Simultaneous Wireless Information and Energy Transfer, Non-Terrestrial Networks |
 | [Integrated Sensing and Communication with Reconfigurable Intelligent Surfaces: Opportunities, Applications, and Future Directions](https://ieeexplore.ieee.org/abstract/document/10077119) | Dalian University of Technology | IEEE Wireless Commun. 2022 | Bifunctional radar communication, Radar communication coexistence, Communication and Sensing performance optimization, Active and Passive beamforming design |
 | [Towards Smart Radio Environment for Wireless Communications via Intelligent Reflecting Surfaces: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9122596) | Sun Yat-sen University | IEEE Commun. Surv. Tutorials 2020 | Various applications of RIS in wireless communications, Performance metrics, analytical methods, and joint optimization of network design problems |
+
+<br> <!-- 添加空行以增加间隙 -->
 
 ## RIS-assisted ISAC Researches
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
@@ -92,6 +100,8 @@ If your publications are not included here, please feel free to send me pull req
 | [Intelligent Electromagnetic Sensing with Learnable Data Acquisition and Processing](https://www.cell.com/patterns/fulltext/S2666-3899(20)30006-4) | Peking University | Patterns 2020 | Electromagnetic induction,  Data acquisition and processing, VAE, Signal reconstruction and classification | contact author |
 | [Machine-Learning Reprogrammable Metasurface Imager](https://www.nature.com/articles/s41467-019-09103-2) | Peking University | Nature Communications 2019 | Microwave imaging, Compressed-domain target recognition, Radiation patterns required for ML implementation in imaging devices | [video](https://www.nature.com/articles/s41467-019-09103-2#Sec13) |
 
+<br> <!-- 添加空行以增加间隙 -->
+
 ## ISCC Surveys & Tutorials
 | Title | Institutions | Venue/Year | Targeting Problems |
 | ----- | ------------ | ---------- | ----------------- |
@@ -99,6 +109,8 @@ If your publications are not included here, please feel free to send me pull req
 | [Computing Systems for Autonomous Driving: State of the Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9288755) | Wayne State University | IEEE Internet Things J. 2021 | Sensor technologies,  Applications in Autonomous Driving, Reference architectures for autonomous driving computing systems including computing, communication, storage, security and privacy |
 | [Sensing, Computing, and Communications for Energy Harvesting IoTs: A Survey](https://ieeexplore.ieee.org/abstract/document/8944276) | University of New South Wales | IEEE Commun. Surv. Tutorials 2020 | Use of Energy Harvesting Hardware, Context Awareness, Intermittent Computing, Time Holding, Wireless Communication for EH-IoT |
 | [Service-aware 6G: An intelligent and open network based on the convergence of communication, computing and caching](https://www.sciencedirect.com/science/article/pii/S2352864820300237) | Chinese Academy of Sciences | Digital Commun. Networks 2020 | Spectrum management for 3C (communication, computation and caching) convergence, Radio Channel construction,  Delay-aware transmission,  Wireless Distributed Computing,  Network self-evolution |
+
+<br> <!-- 添加空行以增加间隙 -->
 
 ## ISCC Researches
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
