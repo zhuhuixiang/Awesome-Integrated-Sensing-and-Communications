@@ -15,6 +15,7 @@ If your publications are not included here, please feel free to send me pull req
 - [Integrated Sensing, Computation, and Communication (ISCC)](#integrated-sensing-computation-and-communication-iscc)
     + [Surveys & Tutorials](#surveys--tutorials)
     + [Researches](#researches)
+    + [White Paper](#white-paper)
 
 <br> <!-- 添加空行以增加间隙 -->
 
@@ -112,12 +113,6 @@ If your publications are not included here, please feel free to send me pull req
 | Title | Institutions | Venue/Year | Targeting Problems |
 | ----- | ------------ | ---------- | ----------------- |
 | [Twelve Scientific Challenges for 6G: Rethinking the Foundations of Communications Theory](https://ieeexplore.ieee.org/abstract/document/10041914) | New York University | IEEE Commun. Surv. Tutorials 2023 | Scientific research challenges of 6G wireless networks, Theoretical foundations of communication include electromagnetic information theory,  semantic communication theory, etc. |
-| [通感算智一体化技术发展模式](https://www.infocomm-journal.com/dxkx/CN/Y2022/V38/I3/37) | ZTE Corporation | 电信科学 2022 | The development model of ISCC technology in 5G-Advanced and future 6G systems, The landing application in future mobile systems, Maximization of business value |
-| [6G愿景与潜在技术白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202106/P020210604552572072895.pdf) | IMT-2030(6G) | IMT-2030(6G) 2021 | A comprehensive overview of 6G technologies, including their vision, drivers, application scenarios and potential key technologies |
-| [面向万物智联的语义通信网络](https://www.infocomm-journal.com/wlw/EN/Y2021/V5/I2/26) | Xidian University | Chinese Journal on Internet of Things 2021 | Semantic Communication network architecture, Edge Intelligence, Federated Learning |
-| [通信-感知-计算融合:6G愿景与关键技术](https://journal.bupt.edu.cn/CN/abstract/abstract4852.shtml) | Beijing University of Posts and Telecommunications | 北京邮电大学学报 2021 | Integrated communication and computing fusion technology, Multi-source information data processing, Multi-dimensional resource management, Technical challenges and future development directions |
-| [通信感知一体化技术研究报告](https://www.waitang.com/report/350222.html) | IMT-2030(6G) | IMT-2030(6G) 2021 | Background, Status quo, Development trend, Application scenarios, Basic theories, Key technologies, Future research directions of ISCC |
-| [通感算一体化网络前沿报告](https://www.china-cic.cn/upload/202202/24/57dba93bea4f494f9f5fc72a52f81468.pdf) | Beijing University of Posts and Telecommunications | 中国通信学会 2021 | ISCC network scenarios and requirements, Empowered networked perceptions, Arithmetic network technologies, Intelligent evolutions |
 | [Computing Systems for Autonomous Driving: State of the Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9288755) | Wayne State University | IEEE Internet Things J. 2021 | Sensor technologies,  Applications in Autonomous Driving, Reference architectures for autonomous driving computing systems including computing, communication, storage, security and privacy |
 | [Sensing, Computing, and Communications for Energy Harvesting IoTs: A Survey](https://ieeexplore.ieee.org/abstract/document/8944276) | University of New South Wales | IEEE Commun. Surv. Tutorials 2020 | Use of Energy Harvesting Hardware, Context Awareness, Intermittent Computing, Time Holding, Wireless Communication for EH-IoT |
 | [Service-aware 6G: An intelligent and open network based on the convergence of communication, computing and caching](https://www.sciencedirect.com/science/article/pii/S2352864820300237) | Chinese Academy of Sciences | Digital Commun. Networks 2020 | Spectrum management for 3C (communication, computation and caching) convergence, Radio Channel construction,  Delay-aware transmission,  Wireless Distributed Computing,  Network self-evolution |
@@ -129,8 +124,20 @@ If your publications are not included here, please feel free to send me pull req
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI](https://ieeexplore.ieee.org/abstract/document/10217150) | ShanghaiTech University | IEEE Trans. Wireless Commun. 2024 | Task-oriented ISCC for multi-device edge AI systems, Low-latency intelligent services using AI model segmentation inference and ISAC techniques |
-| [Edge Learning for B5G Networks with Distributed Signal Processing: Semantic Communication, Edge Computing, and Wireless Sensing](https://ieeexplore.ieee.org/abstract/document/10024766) | Southeast University | IEEE J-STSP 2023 | Co-design of edge architectures and communication optimization, Computational task principles in information theory |
 | [Task-Oriented Communications for 6G: Vision, Principles, and Technologies](https://ieeexplore.ieee.org/abstract/document/10183789) | ShanghaiTech University | IEEE J-STSP 2023 | Mission-Oriented Communication in 6G; Model Compression and Aggregation for Federated Learning, Feature Compression and Transmission for Edge AI Inference |
+| [Edge Learning for B5G Networks with Distributed Signal Processing: Semantic Communication, Edge Computing, and Wireless Sensing](https://ieeexplore.ieee.org/abstract/document/10024766) | Southeast University | IEEE J-STSP 2023 | Co-design of edge architectures and communication optimization, Computational task principles in information theory |
 | [Toward Ambient Intelligence: Federated Edge Learning With Task-Oriented Sensing, Computation, and Communication Integration](https://ieeexplore.ieee.org/abstract/document/9970330) | Peking University | IEEE J-STSP 2023 | Joint SCC Resource Allocation, Federated Learning Performance Maximization; Human Motion Recognition Based on Wireless Sensing |
 | [Over-the-Air Computing for Wireless Data Aggregation in Massive IoT](https://ieeexplore.ieee.org/abstract/document/9535447) | Shenzhen Research Institute of Big Data | IEEE Wireless Commun. 2021 | Over-the-air computation for Data Aggregation, Low-latency data aggregation for IoT, Waveform overlay for multi-access channel convergence |
 | [Integrated Sensing, Computation and Communication in B5G Cellular Internet of Things](https://ieeexplore.ieee.org/abstract/document/9206051) | Zhejiang University | IEEE Trans. Wireless Commun. 2021 | Joint beamforming algorithms in B5G and IoT networks, Minimization of computational errors; Maximization of weighted total rate |
+
+<br> <!-- 添加空行以增加间隙 -->
+
+### White Paper
+| Title | Institutions | Venue/Year | Targeting Problems |
+| ----- | ------------ | ---------- | ----------------- |
+| [通感算智一体化技术发展模式](https://www.infocomm-journal.com/dxkx/CN/Y2022/V38/I3/37) | ZTE Corporation | 电信科学 2022 | The development model of ISCC technology in 5G-Advanced and future 6G systems, The landing application in future mobile systems, Maximization of business value |
+| [面向万物智联的语义通信网络](https://www.infocomm-journal.com/wlw/EN/Y2021/V5/I2/26) | Xidian University | Chinese Journal on Internet of Things 2021 | Semantic Communication network architecture, Edge Intelligence, Federated Learning |
+| [6G愿景与潜在技术白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202106/P020210604552572072895.pdf) | IMT-2030(6G) | IMT-2030(6G) 2021 | A comprehensive overview of 6G technologies, including their vision, drivers, application scenarios and potential key technologies |
+| [通信感知一体化技术研究报告](https://www.waitang.com/report/350222.html) | IMT-2030(6G) | IMT-2030(6G) 2021 | Background, Status quo, Development trend, Application scenarios, Basic theories, Key technologies, Future research directions of ISCC |
+| [通感算一体化网络前沿报告](https://www.china-cic.cn/upload/202202/24/57dba93bea4f494f9f5fc72a52f81468.pdf) | Beijing University of Posts and Telecommunications | 中国通信学会 2021 | ISCC network scenarios and requirements, Empowered networked perceptions, Arithmetic network technologies, Intelligent evolutions |
+| [通信-感知-计算融合:6G愿景与关键技术](https://journal.bupt.edu.cn/CN/abstract/abstract4852.shtml) | Beijing University of Posts and Telecommunications | 北京邮电大学学报 2021 | Integrated communication and computing fusion technology, Multi-source information data processing, Multi-dimensional resource management, Technical challenges and future development directions |
