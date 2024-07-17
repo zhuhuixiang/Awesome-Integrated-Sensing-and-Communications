@@ -7,21 +7,21 @@ If your publications are not included here, please feel free to send me pull req
 
 # Table of Contents
 - [Integrated Sensing & Communications (ISAC)](#integrated-sensing--communications-isac)
-    + [Surveys & Tutorials](#surveys--tutorials)
-    + [Researches](#researches)
+    + [Surveys & Tutorials](#isac-surveys--tutorials)
+    + [Researches](#isac-researches)
 - [Reconfigurable Intelligent Surface (RIS)-assisted ISAC](#reconfigurable-intelligent-surface-ris-assisted-isac)
-    + [Surveys & Tutorials](#surveys--tutorials)
-    + [Researches](#researches)
+    + [Surveys & Tutorials](#ris-assisted-isac-surveys--tutorials)
+    + [Researches](#ris-assisted-isac-researches)
 - [Integrated Sensing, Computation, and Communication (ISCC)](#integrated-sensing-computation-and-communication-iscc)
-    + [Surveys & Tutorials](#surveys--tutorials)
-    + [Researches](#researches)
-    + [White Paper](#white-paper)
+    + [Surveys & Tutorials](#iscc-surveys--tutorials)
+    + [Researches](#iscc-researches)
+    + [White Paper](#iscc-white-paper)
 
 <br> <!-- 添加空行以增加间隙 -->
 
 ## Integrated Sensing & Communications (ISAC)
 
-### Surveys & Tutorials
+### ISAC Surveys & Tutorials
 | Title  | Institutions | Venue/Year |  Targeting Problems |
 | ------------- | ------------- | ------------- | ------------- |
 | [Integrated Sensing and Communications: Recent Advances and Ten Open Challenges](https://ieeexplore.ieee.org/abstract/document/10418473)  | Southern University of Science and Technology | IoTJ 2024 | Signal Processing, Network Designing, Theoretical Tradeoff, Future Applications  |   |
@@ -35,10 +35,11 @@ If your publications are not included here, please feel free to send me pull req
 
 <br> <!-- 添加空行以增加间隙 -->
 
-### Researches
+### ISAC Researches
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Multi-task Learning Resource Allocation in Federated Integrated Sensing and Communication Networks](https://ieeexplore.ieee.org/abstract/document/10506079)  | University of Science and Technology Beijing | IEEE Trans. Wireless Commun 2024 | Signal Processing, Network Designing  |   |
+| [Transformer-Based Predictive Beamforming for Integrated Sensing and Communication in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10457929)  | China University of Petroleum (East China) | IEEE Internet Things J. 2024 | Beamforming in vehicular networks, Echo-based Convolutional Transformer Network, Unconstrained optimization |   |
 | [Integrated Sensing and Communication with Reconfigurable Intelligent Surfaces: Opportunities, Applications, and Future Directions](https://ieeexplore.ieee.org/abstract/document/10077119)  | Dalian University of Technology | IEEE Wireless Commun. 2023 | Network Designing, Theoretical Tradeoff, Future Applications  |   |
 | [Integrated Sensing and Communications: A Mutual Information-Based Framework](https://ieeexplore.ieee.org/abstract/document/10129042)  | Beijing University of Posts and Telecommunications | IEEE Communications Magazine 2023 | Network Designing, Future Applications  |   |
 | [Task-Oriented Communications for 6G: Vision, Principles, and Technologies](https://ieeexplore.ieee.org/abstract/document/10183789)  | ShanghaiTech University | IEEE Wireless Commun. 2023 | Network Designing, Theoretical Tradeoff, Future Applications  |   |
@@ -66,7 +67,7 @@ If your publications are not included here, please feel free to send me pull req
 <br> <!-- 添加空行以增加间隙 -->
 ## Reconfigurable Intelligent Surface (RIS)-assisted ISAC
 
-### Surveys & Tutorials
+### RIS-assisted ISAC Surveys & Tutorials
 | Title | Institutions | Venue/Year | Targeting Problems |
 | ----- | ------------ | ---------- | ----------------- |
 | [Inspiring Physical Layer Security With RIS: Principles, Applications, and Challenges](https://ieeexplore.ieee.org/abstract/document/10506802) | National University of Defense Technology | IEEE open j. Commun. Soc 2024 | Physical Layer Security, Different hardware architectures of RIS, Applications in various scenarios, Potential research directions and challenges of RIS-assisted PLS communication |
@@ -81,7 +82,7 @@ If your publications are not included here, please feel free to send me pull req
 
 <br> <!-- 添加空行以增加间隙 -->
 
-### Researches
+### RIS-assisted ISAC Researches
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Microwave Speech Recognizer Empowered by a Programmable Metasurface](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202309826) | Peking University | Advanced Science 2024 | Microwave signal processing, Image and Speech recognition, Pattern recognition, Wireless communications |
@@ -109,7 +110,7 @@ If your publications are not included here, please feel free to send me pull req
 <br> <!-- 添加空行以增加间隙 -->
 ## Integrated Sensing, Computation, and Communication (ISCC)
 
-### Surveys & Tutorials
+### ISCC Surveys & Tutorials
 | Title | Institutions | Venue/Year | Targeting Problems |
 | ----- | ------------ | ---------- | ----------------- |
 | [Twelve Scientific Challenges for 6G: Rethinking the Foundations of Communications Theory](https://ieeexplore.ieee.org/abstract/document/10041914) | New York University | IEEE Commun. Surv. Tutorials 2023 | Scientific research challenges of 6G wireless networks, Theoretical foundations of communication include electromagnetic information theory,  semantic communication theory, etc. |
@@ -120,7 +121,7 @@ If your publications are not included here, please feel free to send me pull req
 
 <br> <!-- 添加空行以增加间隙 -->
 
-### Researches
+### ISCC Researches
 | Title  | Team/Authors | Venue/Year |  Targeting Problems | Materials |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI](https://ieeexplore.ieee.org/abstract/document/10217150) | ShanghaiTech University | IEEE Trans. Wireless Commun. 2024 | Task-oriented ISCC for multi-device edge AI systems, Low-latency intelligent services using AI model segmentation inference and ISAC techniques |
@@ -132,7 +133,7 @@ If your publications are not included here, please feel free to send me pull req
 
 <br> <!-- 添加空行以增加间隙 -->
 
-### White Paper
+### ISCC White Paper
 | Title | Institutions | Venue/Year | Targeting Problems |
 | ----- | ------------ | ---------- | ----------------- |
 | [通感算智一体化技术发展模式](https://www.infocomm-journal.com/dxkx/CN/Y2022/V38/I3/37) | ZTE Corporation | 电信科学 2022 | The development model of ISCC technology in 5G-Advanced and future 6G systems, The landing application in future mobile systems, Maximization of business value |
