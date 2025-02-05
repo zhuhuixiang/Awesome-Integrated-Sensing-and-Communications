@@ -1,5 +1,5 @@
 # Awesome Integrated Sensing and Communications [![awesome](https://img.shields.io/badge/-awesome-brightgreen)](https://awesome.re)
-A curated list of Integrated Sensing & Communications (**ISAC**), Reconfigurable Intelligent Surface **(RIS)-assisted ISAC**,  Integrated Sensing, Computation, and Communication (**ISCC**) publications in Top-tier Journals, including IEEE Trans, ACM Journals, JSAC, IoTJ,  etc. We ranked the following papers based on their **publication year**.
+A curated list of Integrated Sensing & Communications (**ISAC**), Reconfigurable Intelligent Surface **(RIS)-assisted ISAC**,  Integrated Sensing, Computation, and Communication (**ISCC**) publications in Top-tier Journals and Conferences, including IEEE Trans, ACM Journals, JSAC, IoTJ,  etc. We ranked the following papers based on their **publication year**.
 
 **Last Update: July 16nd, 2024**
 
